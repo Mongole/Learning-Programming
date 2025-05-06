@@ -1,0 +1,1 @@
+Before even considering to upload to github, BroCodes 12h 'Python Full Course for Free' was the first video tutorial used. So not much was documented.
