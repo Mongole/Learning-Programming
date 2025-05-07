@@ -1,3 +1,5 @@
+This began late March 2025 and was finished May 02 2025 (had to focus on other stuff in april)
+
 Overview
 
 This is an analysis of the data job market, following Luke Barousses tutorial 'Python for Data Analytics - full course for beginners'.
